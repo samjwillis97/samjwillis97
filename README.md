@@ -30,7 +30,7 @@ A few years ago whilst still studying at university I found my passion for softw
   - Frontend in VueJS
   - Backend in Go
 
-As well as these in my repositories you will find my personal dotfiles, docker-compose for my home media server and other projects I am working on.
+As well as these, in my repositories you will find my personal dotfiles, docker-compose for my home media server and other projects I am working on.
 
 <br />
 
