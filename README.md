@@ -1,19 +1,42 @@
 ### Hey There 👋
 
-I'm a self taugh software developer from Newcastle, NSW, Australia. By day I'm working as a Mechanical Engineer at Verico Asset Integrity Services in Warabrook and by night expanding my knowledge into software development.
+I'm a Mechanical Engineer from Newcastle, NSW, Australia with a passion for Software Development and continuously improving my knowledge base.
 
-A few years ago whilst still studying at university I found a passion for software and technology in general and since then have been teaching myself and trying out a variety of languages with particular interest in both front-end and back-end development.
+A few years ago whilst still studying at university I found my passion for software and technology in general and since then have been teaching myself and trying out a variety of languages with particular interest in both front-end and back-end development.
 
-## Languages and Tools:
 
-### Comfortable With:
+### 🧰 Languages and Tools:
 
-### Learning:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-## Contact Me:
+<br />
 
-On my repositories you will find my personal dotfiles, docker-compose for my home-server, and projects I am working on.
 
+### 🚧 Currently Working on:
+
+- National Electricity Market Dashboard
+  - [Backend](https://github.com/samjwillis97/NemWebApi)
+  - Frontend (Not on Github, yet)
+  - [Data Aggregator](https://github.com/samjwillis97/NemWebScraper)
+- Customer Management System (Not on GitHub, yet)
+  - Frontend in VueJS
+  - Backend in Go
+
+As well as these in my repositories you will find my personal dotfiles, docker-compose for my home media server and other projects I am working on.
+
+
+### ✉️ Contact Me:
+
+- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📧 sam at williscloud.org
+
+[linkedin]: https://www.linkedin.com/in/samuel-willis-6110a9114/
 <!--
 **samjwillis97/samjwillis97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
