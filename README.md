@@ -2,8 +2,9 @@
 
 I'm a Mechanical Engineer from Newcastle, NSW, Australia with a passion for Software Development and continuously improving my knowledge base.
 
-A few years ago whilst still studying at university I found my passion for software and technology in general and since then have been teaching myself and trying out a variety of languages with particular interest in both front-end and back-end development.
+A few years ago whilst still studying at university I found my passion for software and technology in general and since then have been teaching myself and trying out a variety of languages with particular interest in both front-end and back-end development.]
 
+<br />
 
 ### 🧰 Languages and Tools:
 
@@ -16,7 +17,8 @@ A few years ago whilst still studying at university I found my passion for softw
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
-
+<br />
+<br />
 
 ### 🚧 Currently Working on:
 
@@ -30,6 +32,7 @@ A few years ago whilst still studying at university I found my passion for softw
 
 As well as these in my repositories you will find my personal dotfiles, docker-compose for my home media server and other projects I am working on.
 
+<br />
 
 ### ✉️ Contact Me:
 
