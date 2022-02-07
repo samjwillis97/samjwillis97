@@ -24,7 +24,7 @@ A few years ago whilst still studying at university I found my passion for softw
 
 - National Electricity Market Dashboard
   - [Backend](https://github.com/samjwillis97/NemWebGoAPi)
-  - Frontend (Not on Github, yet)
+  - [Frontend](https://github.com/samjwillis97/nemwebdash) (WIP)
   - [Data Aggregator](https://github.com/samjwillis97/NemWebScraper)
 - Customer Management System (Not on GitHub, yet)
   - Frontend in VueJS
