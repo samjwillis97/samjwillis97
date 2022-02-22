@@ -26,7 +26,7 @@ A few years ago whilst still studying at university I found my passion for softw
 
 ### 🚧 Currently Working on:
 
-- National Electricity Market Dashboard
+- Australian Electricity Market Dashboard
   - [Backend](https://github.com/samjwillis97/NemWebGoAPi) - Go
   - [Frontend](https://github.com/samjwillis97/nemwebdash) - Svelte
   - [Data Aggregator](https://github.com/samjwillis97/NemWebScraper) - Python
