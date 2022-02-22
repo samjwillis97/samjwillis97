@@ -27,9 +27,9 @@ A few years ago whilst still studying at university I found my passion for softw
 ### 🚧 Currently Working on:
 
 - National Electricity Market Dashboard
-  - [Backend](https://github.com/samjwillis97/NemWebGoAPi)
-  - [Frontend](https://github.com/samjwillis97/nemwebdash)
-  - [Data Aggregator](https://github.com/samjwillis97/NemWebScraper)
+  - [Backend](https://github.com/samjwillis97/NemWebGoAPi) - Go
+  - [Frontend](https://github.com/samjwillis97/nemwebdash) - Svelte
+  - [Data Aggregator](https://github.com/samjwillis97/NemWebScraper) - Python
 - Customer Management System (Not on GitHub, yet)
   - Frontend in VueJS
   - Backend in Go
