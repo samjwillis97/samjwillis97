@@ -1,6 +1,6 @@
 ### Hey There 👋
 
-I'm a Mechanical Engineer from Newcastle, NSW, Australia with a passion for Software Development and continuously improving my knowledge base.
+I'm a Mechanical Engineer working as a Software Systems Engineer from Newcastle NSW, Australia, with a passion for Software Development and continuously improving my knowledge base.
 
 A few years ago whilst still studying at university I found my passion for software and technology in general and since then have been teaching myself and trying out a variety of languages with particular interest in both front-end and back-end development.
 
@@ -20,8 +20,8 @@ A few years ago whilst still studying at university I found my passion for softw
 <br />
 <br />
 
-### ✨ Published Projects:
-- Australian Electricity Market Dashboard - [aemodash.com](https://aemodash.com)
+<!-- ### ✨ Published Projects: -->
+<!-- - Australian Electricity Market Dashboard - [aemodash.com](https://aemodash.com) -->
 
 
 ### 🚧 Currently Working on:
