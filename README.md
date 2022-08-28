@@ -1,8 +1,6 @@
 ### Hey There 👋
 
-I'm a Mechanical Engineer working as a Software Systems Engineer from Newcastle NSW, Australia, with a passion for Software Development and continuously improving my knowledge base.
-
-A few years ago whilst still studying at university I found my passion for software and technology in general and since then have been teaching myself and trying out a variety of languages with particular interest in both front-end and back-end development.
+I'm a Mechanical Engineer turned Software Systems Engineer from Newcastle NSW, Australia, with a passion for Software Development and continuously improving my knowledge base.
 
 <br />
 
