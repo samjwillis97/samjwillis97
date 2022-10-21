@@ -1,6 +1,6 @@
 ### Hey There 👋
 
-I'm a Mechanical Engineer turned Software Systems Engineer from Newcastle NSW, Australia, with a passion for Software Development and continuously improving my knowledge base.
+I'm a Mechanical Engineer turned Software Developer from Newcastle NSW, Australia, with a passion for learning and Software Development.
 
 <br />
 
