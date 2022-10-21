@@ -28,11 +28,9 @@ I'm a Mechanical Engineer turned Software Systems Engineer from Newcastle NSW, A
   - [Backend](https://github.com/samjwillis97/NemWebGoAPi) - Go
   - [Frontend](https://github.com/samjwillis97/nemwebdash) - Svelte
   - [Data Aggregator](https://github.com/samjwillis97/NemWebScraper) - Python
-- Customer Management System (Not on GitHub, yet)
-  - Frontend in VueJS
-  - Backend in Go
+- [AWARE CLI](https://github.com/samjwillis97/aware-cli) - Go
 
-As well as these, in my repositories you will find my personal dotfiles, docker-compose for my home media server and other projects I am working on.
+As well as these, in my repositories you will find my personal dotfiles, docker-compose for my home media server and other projects I am tinkering with.
 
 <br />
 
