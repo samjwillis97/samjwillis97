@@ -4,7 +4,7 @@ I'm a Mechanical Engineer turned Software Developer from Newcastle NSW, Australi
 
 <br />
 
-### 🧰 Languages and Tools:
+<!-- ### 🧰 Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
@@ -16,12 +16,12 @@ I'm a Mechanical Engineer turned Software Developer from Newcastle NSW, Australi
 
 <br />
 <br />
-<br />
+<br /> -->
 
 <!-- ### ✨ Published Projects: -->
 <!-- - Australian Electricity Market Dashboard - [aemodash.com](https://aemodash.com) -->
 
-
+<!-- 
 ### 🚧 Currently Working on:
 
 - Australian Electricity Market Dashboard
@@ -32,7 +32,7 @@ I'm a Mechanical Engineer turned Software Developer from Newcastle NSW, Australi
 
 As well as these, in my repositories you will find my personal dotfiles, docker-compose for my home media server and other projects I am tinkering with.
 
-<br />
+<br /> -->
 
 ### ✉️ Contact Me:
 
