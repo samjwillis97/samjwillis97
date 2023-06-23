@@ -35,8 +35,9 @@ As well as these, in my repositories you will find my personal dotfiles, docker-
 <br /> -->
 
 ### ✉️ Contact Me:
-
+<!-- 
 - [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+-->
 - 📧 sam at williscloud.org
 
 [linkedin]: https://www.linkedin.com/in/samuel-willis-6110a9114/
