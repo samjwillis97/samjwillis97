@@ -1,6 +1,6 @@
 ### Hey There 👋
 
-I'm a Mechanical Engineer turned Software Developer from Newcastle NSW, Australia, with a passion for learning and Software Development.
+I'm Software Developer from Newcastle NSW, Australia. I thoroughly enjoy learning and developing my skills through the full stack of software, from reproducible builds and developer environments with Nix, to lightweight frontends with Svelte. 
 
 <br />
 
