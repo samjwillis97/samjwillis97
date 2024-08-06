@@ -1,6 +1,6 @@
 ### Hey There 👋
 
-I'm Software Developer from Newcastle NSW, Australia. I thoroughly enjoy learning and developing my skills through the full stack of software, from reproducible builds and developer environments with Nix, to lightweight frontends with Svelte. 
+<!-- I'm Software Developer from Newcastle NSW, Australia. I thoroughly enjoy learning and developing my skills through the full stack of software, from reproducible builds and developer environments with Nix, to lightweight frontends with Svelte. 
 
 <br />
 
@@ -33,12 +33,16 @@ I'm Software Developer from Newcastle NSW, Australia. I thoroughly enjoy learnin
 As well as these, in my repositories you will find my personal dotfiles, docker-compose for my home media server and other projects I am tinkering with.
 
 <br /> -->
-
+<!-- 
 ### ✉️ Contact Me:
+-->
 <!-- 
 - [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
+<!-- 
 - 📧 sam at williscloud.org
+-->
+
 
 [linkedin]: https://www.linkedin.com/in/samuel-willis-6110a9114/
 <!--
@@ -55,3 +59,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
